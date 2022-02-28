@@ -1,0 +1,629 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deliciæ musicæ being, a collection of the newest and best songs, with the additional musick to the Indian Queen, by Mr. Daniel Purcell, as it is now acted at His Majesties theatre. Most of the songs being within the compass of the flute. With a thorow-bass, for the theorbo-lute, bass-viol, harpsicord, or organ. Composed by several of the best masters. The first book of the second volume.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90756</idno>
+            <idno type="STC">Wing P2434</idno>
+            <idno type="STC">ESTC R230093</idno>
+            <idno type="EEBO-CITATION">99895914</idno>
+            <idno type="PROQUEST">99895914</idno>
+            <idno type="VID">153486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deliciæ musicæ being, a collection of the newest and best songs, with the additional musick to the Indian Queen, by Mr. Daniel Purcell, as it is now acted at His Majesties theatre. Most of the songs being within the compass of the flute. With a thorow-bass, for the theorbo-lute, bass-viol, harpsicord, or organ. Composed by several of the best masters. The first book of the second volume.</title>
+                  <author>Playford, Henry, b. 1657.</author>
+                  <author>Purcell, Henry, 1659-1695.</author>
+                  <author>Hove, Frederick Hendrick van, 1628?-1698, engraver.</author>
+               </titleStmt>
+               <extent>[2], 18 p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Heptinstall, for Henry Playford at his shop in the Temple-Change, Fleetstreet, and for John Church, sold by Daniel Dring, at the Harrow and Crown at the corner of Cliffords-Inn-Lane in Fleetstreet. And also sold at Oxford by Francis Dollife book-binder, who sells all other musick-books,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint on title page: Price one shilling.</note>
+                  <note>With title page vignettes, signed: F.H. Van. Hove. Sculp:.</note>
+                  <note>Includes printed music.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  17th century.</term>
+               <term>Music --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153486:1"/>
+            <p>DELICIAE MUSICAE: BEING, A Collection of the neweſt and beſt SONGS, With the Additional Muſick to the <hi>Indian Queen,</hi> by Mr. <hi>Daniel Purcell,</hi> as it is now Acted at His <hi>Majeſties Theatre.</hi> Moſt of the Songs be<g ref="char:EOLhyphen"/>ing within the Compaſs of the <hi>Flute.</hi> WITH A Thorow-Baſs, for the <hi>Theorbo-Lute, Baſs-Viol, Harpſichord,</hi> or <hi>Organ. Compoſed by ſeveral of the Beſt Maſters.</hi>
+            </p>
+            <p>The Firſt Book of the Second Volume.</p>
+            <figure>
+               <figDesc>depiction of a richly-dressed woman seated at a covered table with an open song-book, and a man seated playing a lute reading a sheet of music; on the table lies a fipple flute</figDesc>
+               <byline>F.H. Van. Hove. Sculp:</byline>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change, Fleetſtreet,</hi> and for <hi>John Church,</hi> Sold by <hi>Daniel Dring</hi> at the <hi>Harrow</hi> and <hi>Crown</hi> at the corner of <hi>Cliffords-Inn-Lane</hi> in <hi>Fleetſtreet.</hi> And alſo Sold at <hi>Oxford</hi> by <hi>Francis Dollife</hi> Book-binder, who Sells all other Muſick-Books. 1696.</p>
+            <p>Price One Shilling.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:153486:2"/>
+            <head>A Table of the SONGS contain'd in this Book.</head>
+            <list>
+               <head>C</head>
+               <item>Come all, come all at my Call, <hi>Page. 2</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Good People, I'de make you all Bleſt if I cou'd <hi>Page. 4</hi>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>I'me glad, I'me glad I have met him, <hi>Page. 3</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>My Hony, my Pugg, <hi>Page. 5</hi>
+               </item>
+               <item>Make haſt to put on, <hi>Page. 11</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Rich Mines of hot Love, <hi>Page. 18</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Sound, ſound the Trumpet, <hi>Page. 9</hi>
+               </item>
+               <item>So well <hi>Corinna</hi> likes the joy, <hi>Page. 15</hi>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>To Bleſs the Genial Bed with Chaſt delights, <hi>Page. 1</hi>
+               </item>
+               <item>The joys of Wedlock ſoon are paſt, <hi>Page. 7</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>While <hi>Phillis</hi> does drink, <hi>Page. 14</hi>
+               </item>
+               <item>What ungratefull Devil moves you, <hi>Page. 17</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Vocal and Inſtrumental <hi>Muſick</hi> lately Printed and Reprinted with large Additions, for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change.</hi>
+            </head>
+            <p>
+               <hi>CAntica Sacra,</hi> the firſt Set in Latin, the ſecond Set in Engliſh and Latin, containing <hi>Hymns</hi> for 2 and 3 Voices to the <hi>Organ.</hi> Price of each 3 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Harmonia Sacra,</hi> in 2 Books, containing Divine <hi>Hymns</hi> and <hi>Dialogues</hi> lately ſet to Muſick by Dr. <hi>John Blow,</hi> and Mr. <hi>Henry Purcell,</hi> and ſeveral Eminent Maſters. Price Bound of both Books 15 Shillings, the ſecond Book Sticht 4 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Deliciae Muſicae,</hi> in Four Books, with Three <hi>Elegies</hi> on our Late Queen, being the firſt Volume, which Contains moſt of the neweſt and beſt of Songs, by the Late Famous Mr. <hi>Henry Purcell.</hi> The Price of the Volume Stitch't, 5. <hi>s.</hi>
+            </p>
+            <p>The <hi>Pſalms</hi> in 4 Parts in Folio. Price ſtitcht 3 <hi>s.</hi>
+            </p>
+            <p>The whole Book of <hi>Pſalms</hi> in 3 Parts, by <hi>John Playford,</hi> as they are Sung in Churches: Printed for the uſe of ſeveral Maſters in moſt Countries, who teach the ſame. The 2 Edition in 8<hi rend="sup">o</hi>. Price Bound 3. <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The <hi>Treaſury of Muſick,</hi> in Folio. The price Bound 10 Shillings.</p>
+            <p>The new <hi>Treaſury of Muſick,</hi> being the beſt Collection of Song-Books for this 20 years laſt paſt. Price Bound 25 <hi>s.</hi>
+            </p>
+            <p>The firſt Part of the <hi>Muſical Companion,</hi> containing Variety of <hi>Catches</hi> and <hi>Songs</hi> for 3 and 4 Voices: to which is added ſeveral Dialogues for 2, 3, and 4 Voices, in one Volume in Quarto. Price bound 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Second Book of the <hi>Pleaſant Muſical Companion,</hi> being a Choice Collection of <hi>Catches</hi> in 3 and 4 parts, from the Year 1690, to 1695. To which is added ſeveral Songs for two Voices, by Mr. <hi>Henry Purcell,</hi> and other Eminent Maſters. Price Stitcht 2 Shillings.</p>
+            <p>The Introduction to the Skill of Muſick, both Vocal and Inſtrumental, by <hi>J. Playford;</hi> the 12th Edition Corrected and Amended, with new Rules for Compoſing in 2, 3, 4, and 5 Parts, by Mr. <hi>H. Purcell.</hi> Price bound 2 <hi>s.</hi>
+            </p>
+            <div type="part">
+               <head>INSTR<g ref="char:V">Ʋ</g>MENTAL.</head>
+               <p>
+                  <hi>Muſick</hi>'s <hi>Hand-Maid,</hi> in 2 Books, containing Leſſons and Inſtructions for the <hi>Harpſichord,</hi> or <hi>Spinet.</hi> Price ſtitcht of each 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Dancing-Maſter,</hi> with Directions for Country Dances, with Tunes to each Dance. The 9th. Edition, with 36 new Dances never printed before. Price bound 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Diviſion Violin,</hi> in 2 Books, containing Diviſions on Grounds, with ſeveral <hi>Solo's</hi> for the <hi>Treble-Violin.</hi> Price ſtitcht of the firſt Part 2 <hi>s.</hi> 6 <hi>d.</hi> the ſecond Part 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>Apollo</hi>'s <hi>Banquet,</hi> in 2 Books, containing the neweſt Tunes, <hi>Jiggs, Minuets, Bore's, Sallabrands, Scotch-Tunes,</hi> and <hi>French-Dances,</hi> for the <hi>Treble-Violin,</hi> moſt of which are proper to play on the <hi>Flute.</hi> Price of the firſt Book ſtitcht, being the 7th. Edition, with large Additions, 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>The <hi>Sprightly Companion,</hi> being a Collection of the beſt Foreign MARCHES, now play'd in all Camps. With two Farewells at the Funeral of the late Queen. Price 6 <hi>d.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>THere will be ſpeedily Publiſh'd an <hi>Elegy</hi> on the Late Mr. <hi>Henry Purcell,</hi> the Words by Mr. <hi>John Dryden,</hi> and Sett to Muſick by Dr. <hi>John Blow.</hi>
+            </p>
+            <p>Propoſals are Printed for a Choice Collection of Songs in 1, 2, and 3 Parts, by the Late Famous Mr. <hi>Henry Purcell,</hi> being formerly Printed in ſeveral Volumes, and not to be pur<g ref="char:EOLhyphen"/>chas'd under great Rates, ſome being, out of Print, with ſeveral never yet Printed, with a Tho<g ref="char:EOLhyphen"/>row-Baſs, Figured for the <hi>Baſs-Viol, Harpſicord,</hi> and <hi>Spinett.</hi>
+            </p>
+            <p>Several Books of <hi>Italian Muſick</hi> both Vocal and Inſtrumental lately ſent over from <hi>Italy.</hi>
+            </p>
+            <p>
+               <hi>Oroonoko,</hi> a Tragedy by Mr. <hi>Southern,</hi> Acted at the Theatre Royal, Price ſtitch't 1. <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A New Comedy Call'd <hi>The Lover's Luck.</hi> Acted at the Theatre in Little <hi>Lincolns-Inn-Feilds,</hi> Written by Mr. <hi>Dilks,</hi> Price 1. <hi>s.</hi>
+            </p>
+            <p>The laſt New Comedy call'd the <hi>She Gallants,</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:153486:2"/>
+            <head>A <hi>Maſque.</hi> in the 5th. Act of the <hi>Indian Queen.</hi>
+            </head>
+            <byline>Sett by Mr. <hi>Daniel Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <stage>Sung by <hi>Hymen.</hi>
+               </stage> 
+               <seg rend="decorInit">T</seg>O Bleſs the Genial Bed with Cha╌ſt de╌ ╌lights, to give you hap╌py Days and plea╌ſant, pleaſant, pleaſant pleaſant Nights, Lo I ap╌pear to Crown your ſoft deſires, to Crown your ſo╌ ╌ſt de╌ſires, and with this ſa╌cred Torch to Con╌ſecrate, to Con╌ ╌ſe╌crate Love's fires, to Con╌ ╌ſe╌crate Love's fires. </p>
+         </div>
+         <div type="song">
+            <pb n="2" facs="tcp:153486:3"/>
+            <head>A Song Sung by one of <hi>Hymen</hi>'s followers.</head>
+            <div type="part">
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <hi>COme all, come all, come, come at my Call; come all, come all, come, come at my Call: Heroes and Lovers come, come a╌way, come, come, come a╌way, come all, come all, and Prai╌ſe this glo╌ri╌ous Day.</hi> 
+               </p>
+            </div>
+            <div type="part">
+               <head>CHORUS.</head>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Come all, come all, and Sing great <hi>Hymen's</hi> Praiſe, come all, all, all, and Sing great <hi>Hymen's</hi> Praiſe; the God who makes the darkeſt Nights, ap╌pear more joy╌full, more joy╌ joyfull, and more bright; than thouſands, than thouſands, than thouſands, than thouſands of Vic╌╌torious
+<pb n="3" facs="tcp:153486:3"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> days, than thouſands, than thouſands, thouſands, than thouſands of Victorious days.</p>
+               </sp>
+               <pb n="2" facs="tcp:153486:3"/>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Come all and Sing great <hi>Hymen's</hi> Praiſe, come all, all, all, and Sing great <hi>Hymen's</hi> Praiſe; the God who makes the darkeſt Nights, ap╌pear, ap╌pear more ╌full, and more bright; than thouſands, than thou╌ſands of Vic╌torious
+<pb n="3" facs="tcp:153486:3"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> days, than thouſands, than thou╌ſands of Victorious days. </p>
+               </sp>
+            </div>
+         </div>
+         <div type="song">
+            <head>A Song, Sung to <hi>Hymen</hi> by a Maried Couple.</head>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I'╌Me glad, I'me glad I have met him,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Let me, let me come at him,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Bane of Paſſion,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Pleaſures Curſe,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> confounded, confounded in venture of Better for Worſe;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> confounded in venture of Better for Worſe;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> you told us in╌deed you'd heap Bleſſings up╌on us, you made us be╌lieve you, and<pb n="4" facs="tcp:153486:4"/>ſo, ſo have un╌done us;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> you told us indeed you'd heap Bleſſings up╌on us, you made us be╌lieve you, and ſo, ſo have undone us;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> in Railing,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and Wailing,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> La╌menting, Re╌penting, we paſs all our Days;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> La╌menting, Re╌pent╌ing, we paſs all our Days;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> what Stomach have we, what Stomach have we to Sin╌g, to Sing thy Praiſe.</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> what Stomach have we, what Stomach have we to Sin╌g, to Sing thy Praiſe. </p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>A Song Sung by <hi>Hymen.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> GOod People, I'de make you all Bleſt if I cou'd, but he that can do't muſt be
+<pb n="5" facs="tcp:153486:4"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> more, more, more, muſt be more than a God; and though you think now perhaps you are curſt, I'le warrant you thought, I'le warrant you thought your ſelves hap╌ py, hap╌py at firſt. </p>
+         </div>
+         <div type="song">
+            <head>Second Song by the Maried Couple.</head>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> MY Hony, my Pugg, </p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> My Fetters, my Clogg, </p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's tamely jogg on, let's tamely jogg on, jogg on as others have done; </p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's tamely jogg on, jogg on as others have done;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And ſometimes at quiet,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But oftner ſtrife,</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's tugg, let's tugg the tedious Load, the tedious, tedious load of a Married life;</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's let's tugg the tedious Load, the tedious, tedious Load of a Married life;</p>
+            </sp>
+            <pb n="6" facs="tcp:153486:5"/>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's tugg, let's tugg, let's tugg the tedious Load, the tedious, tedious Load of a Married life.</p>
+            </sp>
+            <sp>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> let's tugg the tedious Load, the tedious, tedious Load of a Mar╌ried life.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>
+               <hi>Simphony</hi> for <hi>Flutes,</hi> with a Song Sung by <hi>Cupid.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:153486:5"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> THe joys of Wedlock ſoon are paſt, but I, if I pleaſe, can make e'm, ma╌ke e'm laſt, can ma╌ ╌ke e'm, ma╌ke e'm, make e'm laſt:
+<pb n="8" facs="tcp:153486:6"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Where Love's a Trade and Hearts are ſold, how weak, how weak's the Fire, how ſoon, how ſoon, how ſoon 'tis cold? The flame en╌creaſes and re╌
+<pb n="9" facs="tcp:153486:6"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ╌fines, where Vertue and where Merit joyns, where Ver╌tue, where Vertue and where Merit joyns, where Ver╌tue, where Vertue and where Merit joyns. </p>
+         </div>
+         <div type="song">
+            <head>A Song Sune by one of <hi>Cupid</hi>'s followers.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <label>Trumpet.</label> SOund, ſound, ſoun╌d, ſoun╌d the Trumpet,
+<pb n="10" facs="tcp:153486:7"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Sound, ſound, ſoun╌ ╌d the Trumpet; Let Love's ſubjects know from Heav'ns high, Vault to <hi>Erebus</hi> to <hi>E</hi>╌ ╌<hi>re╌bus</hi> be╌low; that from this
+<pb n="11" facs="tcp:153486:7"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> hour their Diſcords, their Diſ╌cords all ſhall ceaſe; Love, Love that can on╌ly, can only do't, will give 'em, will give 'em, <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> give 'em, <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> give 'em Peace, give 'em, <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:repeat"/>
+                  </am>
+                  <ex>repeat</ex>
+               </expan> give 'em Peace. </p>
+         </div>
+         <div type="song">
+            <head>A Song Sung by two of <hi>Cupid</hi>'s followers.</head>
+            <div type="part">
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> MAke haſt, make haſt, make haſt to put on, to put on Love's Chains, ye Heroes that de╌light, delight in Arms; forſake, for╌ſake fond Honours gaudy Charms, forſake, forſake fond Honours gaudy Charms, and joyn, and joyn your Tru╌mpets to our Rural ſtrains. your,</p>
+               </sp>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Make haſt, make haſt, make haſt to put on, to put on, to put on Love's Chains, ye Heroes that de╌light, de╌light in Arms; forſake, for╌sake fond Honours gaudy Charms; forſake, forſake fond Honours gaudy Charms; and joyn, and joyn your Tru╌mpets to our Rural ſtrains. your,</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>CHORUS.</head>
+               <pb n="13" facs="tcp:153486:8"/>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Let loud Renown with all her thouſand Tongues, let loud, let loud Re╌nown with all, with all her thouſand Tongues, re╌peat no Name, re╌peat no Name, no no, no Name but his in her im╌mortal Songs; repeat no Name no, no, no Name, but his in her im╌mor╌tal, in her im╌mor╌tal Songs; no, no, no Name but his in her im╌mor╌tal, in her im╌mor╌tal Songs.</p>
+               </sp>
+               <sp>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Let loud Renown with all her thouſand Tongues let loud, let loud Re╌nown with all, with all her thouſand Tongues, re╌peat no Name, re╌peat no Name, but his, but his in her im╌mor╌tal Songs; re╌peat no Name, no Name but his in her im╌mortal, im╌mor╌tal, im╌mortal Songs; no, no, no Name but his in her im╌mor╌tal, im╌mor╌tal Songs.</p>
+               </sp>
+            </div>
+            <trailer>The end of the Maſqe.</trailer>
+         </div>
+         <div type="song">
+            <pb n="14" facs="tcp:153486:9"/>
+            <head>The Firſt Song in the New Play call'd the <hi>She Gallants,</hi> Sung by Mr. <hi>Coper.</hi> Sett by Mr. <hi>John Eccles.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHile <hi>Phillis</hi> does drink, Love and Wine in al╌lyance with Forces u╌nited bid re╌ ſiſtleſs de╌fiance; by the touch of her Lips the Wine ſparkles higher, and her Eyes from her drinking are double the fire: Her Cheeks glow the higher re╌ ╌cruiting their colour, as Flowers by ſparkling re╌vive with freſh Odour; his Dart dipt in Wine Love wounds beyond cureing, and the Li╌quor like Oyle makes the flame more en╌du╌ring. </p>
+            <lg n="2">
+               <pb n="15" facs="tcp:153486:9"/>
+               <head>II.</head>
+               <l>By Cordials of Wine Love is kept from expiring,</l>
+               <l>And our Mirth is enliven'd by Love and deſirng;</l>
+               <l>Relieving each other the Pleaſure is laſting,</l>
+               <l>And we now are cloy'd yet are ever a Taſting:</l>
+               <l>Then <hi>Phillis</hi> begin, let our Raptures abound,</l>
+               <l>And a Kiſs and a Glaſs be ſtill going round;</l>
+               <l>Our joys are immortal while thus we remove,</l>
+               <l>From Love to the Bottle, from the Bottle to Love.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>The Second Song in the <hi>She Gallants,</hi> Sung by Young <hi>Laroch</hi> a Boy of Seaven Years Old.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> SO well <hi>Co╌rin╌na</hi> likes the joy, She vows ſhee'l ne╌ver more be coy; She drinks e╌ternal draughts of Pleaſure, e╌ternal draughts of Pleaſure, e╌ter╌nal draughts will not ſuffice; Ah! give me more, give me more, give me more, give me more, give me more She cry'd, 'tis all too little, little, little, little, lit╌tle meaſure, ah! give me more, give me more, give me more, give me
+<pb n="16" facs="tcp:153486:10"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> give me, give me more She cry'd, 'tis all too little, little, little, little, lit╌tle meaſure, ah! give me more, give me more, give me more, give me, give me, give me more, She cry'd, 'tis all too little, little, little, little, lit╌tle meaſure; 'tis all too little, little, little, little, lit╌tle meaſure. </p>
+         </div>
+         <div type="song">
+            <pb n="17" facs="tcp:153486:10"/>
+            <head>A Song, Sett by Mr. <hi>Daniel Purcell,</hi> Sung in <hi>Love</hi>'s <hi>Laſt Shift.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> WHat un╌grate╌full De╌vil moves you! Come, come my Friend, the Truth de╌ ╌clare; You Love <hi>Sylvia, Sylvia</hi> Loves you; why, why then will you Wed the Fair? Marriage-joyning does diſ╌co╌ver, but Love-free╌ing joyns for Life: Wou'd you, wou'd you, wou'd you Love the Nymph for ever? Never, never, never, never, never, never let her be your Wife. </p>
+         </div>
+         <div type="song">
+            <pb n="18" facs="tcp:153486:11"/>
+            <head>Mr. <hi>Bomans</hi> Song, Acting <hi>Gooſandelo,</hi> in the <hi>Lovers Luck.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> RIch Mines of hot Love are Roo╌ted here, flaſhes of flames in my Eyes ap╌pear; when ſwiftas the Sun, to the Arms of <hi>Thetis</hi> I run, I run, I run, I run, I run, I run, I run, I run, to ſeize on my bliſs, in the parts where it is, oh! you know, oh! you know, oh! you know where, oh! you know, oh! you know, oh! you know where. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>She laid by her Knotting with wond'rous haſt,</l>
+               <l>And took me about my well ſhap'd Waſte;</l>
+               <l>I envy'd not <hi>Jove</hi> his Celeſtial Throne,</l>
+               <l>Nor all the Gods above while Kiſſes came on,</l>
+               <l>And ſomething was done,</l>
+               <l>Which I know, which I know beſt.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
